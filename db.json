@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Homak",
+      "lastName": "Halk",
+      "age": "123",
+      "id": 1
+    },
+    {
+      "name": "Kanaik",
+      "lastName": "Bakirov",
+      "age": "1234",
+      "id": 2
+    },
+    {
+      "name": "Samat",
+      "lastName": "gh",
+      "age": "23456",
+      "id": 3
+    }
+  ]
+}
